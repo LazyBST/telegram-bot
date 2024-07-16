@@ -1,5 +1,5 @@
-FONT_PATH = '/Users/ayusharora/Downloads/rabiohead/rabiohead.ttf'
-SIGNATURE_FONT_PATH = '/Users/ayusharora/Downloads/pwsignaturefont/PWsignaturefont.ttf'
+FONT_PATH = './src/fonts/rabiohead.ttf'
+SIGNATURE_FONT_PATH = './src/fonts/PWsignaturefont.ttf'
 WORD_PER_LINE = 110
 BLUE_INK = '#0047AB'
 DEFAULT_FONT_SIZE=10
